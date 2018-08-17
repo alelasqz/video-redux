@@ -1,0 +1,145 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "description": "Lo mejor de la semana",
+      "title": "Destacados",
+      "playlist": [
+        {
+          "title": "NPR Music Tiny Desk Concert",
+          "author": "Jorja Smith",
+          "type": "video",
+          "cover": "./images/jorja_smith_1.jpg",
+          "src": "http://peach.themazzone.com/durian/movies/sintel-1024-surround.mp4",
+          "id": "1"
+        },
+        {
+          "title": "Blue Lights | A COLORS SHOW",
+          "author": "Jorja Smith",
+          "type": "video",
+          "cover": "./images/jorja_smith_2.jpg",
+          "src": "http://peach.themazzone.com/durian/movies/sintel-1024-surround.mp4",
+          "id": "2"
+        },
+        {
+          "title": "On Yours Own",
+          "author": "Jorja Smith",
+          "type": "video",
+          "cover": "./images/jorja_smith_3.jpeg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": "3"
+        },
+        {
+          "title": "Kali Uchis",
+          "author": "Tyrant ft. Jorja Smith",
+          "type": "video",
+          "cover": "./images/jorja_smith_4.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": "4"
+        },
+        {
+          "title": "On My Mind",
+          "author": "Jorja Smith X Preditah",
+          "type": "video",
+          "cover": "./images/jorja_smith_5.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": "5"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "description": "Lo mejor para concentrarte",
+      "title": "Para programar",
+      "playlist": [
+        {
+          "title": "Get You",
+          "author": "Daniel Caesar ft Kali Uchis",
+          "type": "video",
+          "cover": "./images/daniel_caesar_1.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": "6"
+        },
+        {
+          "title": "Why Don't You",
+          "author": "Cleo Sol",
+          "type": "video",
+          "cover": "./images/cleo_sol_1.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": "7"
+        },
+        {
+          "title": "Slip",
+          "author": "Elliot Moss",
+          "type": "video",
+          "cover": "./images/elliot_moss_1.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": "8"
+        },
+        {
+          "title": "Tried Up",
+          "author": "Ama Lou",
+          "type": "video",
+          "cover": "./images/ama_lou_1.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": "9"
+        },
+        {
+          "title": "Cruise",
+          "author": "Kevin Ross",
+          "type": "video",
+          "cover": "./images/kevin_ross_1.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": "10"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "description": "Si no te queda de otra",
+      "title": "Regueton",
+      "playlist": [
+        {
+          "title": "Little Nerves",
+          "author": "Mahalia",
+          "type": "video",
+          "cover": "./images/mahalia_1.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": "11"
+        },
+        {
+          "title": "Spice",
+          "author": "Ravyn Lenae",
+          "type": "video",
+          "cover": "./images/ravyn_lenae_1.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": "12"
+        },
+        {
+          "title": "First Began",
+          "author": "Pj Morton",
+          "type": "video",
+          "cover": "./images/pj_1.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": "13"
+        },
+        {
+          "title": "Location",
+          "author": "Khalid",
+          "type": "video",
+          "cover": "./images/khalid_1.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": "14"
+        },
+        {
+          "title": "Don't Fade",
+          "author": "JGrrey",
+          "type": "video",
+          "cover": "./images/jgrrey_1.jpg",
+          "src": "https://www.youtube.com/embed/yXrlhebkpIQ",
+          "id": "15"
+        }
+      ]
+    }
+  ]
+}
